@@ -9,7 +9,7 @@
     "url": "git+https://github.com/paincooperation/hyperthread.git"
   },
   "engines": {
-    "node": ">=12.0.0"
+    "node": ">=20.0.0"
   },
   "keywords": [
     "util",
